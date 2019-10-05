@@ -1,0 +1,21 @@
+From a3b919e7935feafcecc516fee2ee184c868094f8 Mon Sep 17 00:00:00 2001
+From: Marry <mary.example@rypress.com>
+Date: Mon, 2 Sep 2019 09:29:21 +0000
+Subject: [PATCH 2/2] Add a pink block of color
+
+---
+ pink.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/pink.html b/pink.html
+index a089e88..eb5f916 100644
+--- a/pink.html
++++ b/pink.html
+@@ -1,2 +1,4 @@
+ pink.html
+ pink is my niece's favourite colour
++pink is good colour
++only real men wear pink
+-- 
+2.17.2
+

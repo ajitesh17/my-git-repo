@@ -1,0 +1,19 @@
+From 12294ae751aea07a0397378d7915f76f1b20f340 Mon Sep 17 00:00:00 2001
+From: Marry <mary.example@rypress.com>
+Date: Mon, 2 Sep 2019 09:10:45 +0000
+Subject: [PATCH 1/2] Change pink to a manly color
+
+---
+ pink.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/pink.html b/pink.html
+index 4ca1ce3..a089e88 100644
+--- a/pink.html
++++ b/pink.html
+@@ -1 +1,2 @@
+ pink.html
++pink is my niece's favourite colour
+-- 
+2.17.2
+
